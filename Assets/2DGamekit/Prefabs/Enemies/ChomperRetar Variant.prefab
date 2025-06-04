@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5645447923770109246
+--- !u!1001 &6316185135561357631
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,27 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1919611099958742, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
       propertyPath: m_Name
-      value: ChomperFast
-      objectReference: {fileID: 0}
-    - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.2
+      value: ChomperRetar Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.3556204
+      value: 113.16124
       objectReference: {fileID: 0}
     - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.1500015
+      value: 23.482227
       objectReference: {fileID: 0}
     - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
       propertyPath: m_LocalPosition.z
@@ -64,48 +52,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4714846280123948, guid: 9a2f32836e0e10248b425c273622a735, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 50412786611651718, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: m_Mass
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114412267516478162, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: startingHealth
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: speed
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: gravity
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: viewFov
-      value: 360
-      objectReference: {fileID: 0}
     - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
         type: 3}
       propertyPath: meleeRange
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: viewDistance
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 114719609329687142, guid: 9a2f32836e0e10248b425c273622a735,
-        type: 3}
-      propertyPath: viewDirection
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

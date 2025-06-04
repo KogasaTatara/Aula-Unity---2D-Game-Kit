@@ -475,7 +475,7 @@ MonoBehaviour:
   viewDirection: 0
   viewFov: 74
   viewDistance: 21
-  timeBeforeTargetLost: 10
+  timeBeforeTargetLost: 2
   meleeRange: 3
   meleeDamager: {fileID: 0}
   contactDamager: {fileID: 2377232777333630482}
